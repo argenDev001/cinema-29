@@ -1,26 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0a6282d7-02f6-4709-bbb8-4904a016c776" name="Changes" comment="" />
+    <list default="true" id="0a6282d7-02f6-4709-bbb8-4904a016c776" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Apikey/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Apikey/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Card/movieCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card/movieCard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/actors/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/actors/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/detailPage/detailPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/detailPage/detailPage.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/detailPage/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/detailPage/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/searchResult/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchResult/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/searchResult/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchResult/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/videos/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/videos/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/home/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/home/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/home/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/popular/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/popular/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/popular/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/popular/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/rated/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/rated/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/page/rated/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/rated/style.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="ProjectId" id="2N5WoW6QuIeDKGgxJzo3kAj38Op" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;C:\\Users\\User\\WebStorm 2022.2.3\\plugins\\JavaScriptLanguage\\jsLanguageServicesImpl\\external&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -30,10 +82,46 @@
       <option name="presentableId" value="Default" />
       <updated>1678954598753</updated>
       <workItem from="1678954600029" duration="31000" />
+      <workItem from="1678954857100" duration="3732000" />
+      <workItem from="1678971005359" duration="12897000" />
+      <workItem from="1679124141626" duration="6614000" />
+      <workItem from="1679208786650" duration="4203000" />
+      <workItem from="1679292111164" duration="9078000" />
+      <workItem from="1679467267685" duration="6113000" />
+      <workItem from="1679473833484" duration="1195000" />
+      <workItem from="1679486109975" duration="3904000" />
+      <workItem from="1679649706637" duration="2461000" />
+      <workItem from="1679791342292" duration="2867000" />
+      <workItem from="1679878616950" duration="2158000" />
+      <workItem from="1680592469266" duration="79000" />
+      <workItem from="1680990081427" duration="658000" />
+      <workItem from="1681032285473" duration="210000" />
+      <workItem from="1681033451145" duration="3155000" />
+      <workItem from="1681216241743" duration="604000" />
+      <workItem from="1681325624524" duration="1365000" />
+      <workItem from="1681896672016" duration="190000" />
+      <workItem from="1681904742543" duration="769000" />
+      <workItem from="1681935199467" duration="1531000" />
+      <workItem from="1681938122433" duration="2363000" />
+      <workItem from="1682019579156" duration="504000" />
+      <workItem from="1687466597396" duration="334000" />
+      <workItem from="1687590844534" duration="32000" />
+      <workItem from="1688384378436" duration="11000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

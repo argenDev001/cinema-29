@@ -1,0 +1,35 @@
+#popular {
+  padding: 50px 0;
+  .btn-page{
+    button{
+      padding: 10px 50px;
+      border-radius: 10px;
+    }
+  }
+
+  .popular {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    &-card{
+      margin: 20px;
+      border: 3px solid gray;
+      border-radius: 10px;
+      background: black;
+      color: white;
+      img{
+        width: 300px;
+      }
+      &-title{
+        h4{
+          font-size: 15px;
+          padding: 10px 20px;
+        }
+        h5{
+          font-size: 15px;
+          padding: 10px 20px;
+        }
+      }
+    }
+  }
+}

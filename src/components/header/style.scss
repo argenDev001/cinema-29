@@ -1,0 +1,12 @@
+#header{
+  position: fixed;
+  background: rgba(126, 125, 125, 0.62);
+  backdrop-filter: blur(4px);
+  left: 0;
+  right: 0;
+  z-index: 999;
+  .navbar{
+    color: white;
+  }
+
+}

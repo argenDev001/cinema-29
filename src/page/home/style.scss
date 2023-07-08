@@ -1,0 +1,28 @@
+#playing{
+  .btn-page{
+    button{
+      padding: 10px 50px;
+      border-radius: 10px;
+    }
+  }
+  .playing{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 60px;
+    padding: 100px 0;
+    img{
+      width: 300px;
+      border: 3px solid #7e7c7c;
+      border-radius: 10px;
+    }
+    h4{
+      color: white;
+      font-size: 18px;
+      padding: 20px 0;
+    }
+    h5{
+      color: white;
+    }
+  }
+}

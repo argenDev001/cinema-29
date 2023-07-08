@@ -1,25 +1,27 @@
-import logo from './logo.svg';
 import './App.css';
+import Header from "./components/header";
+import Footer from "./components/footer";
+import {Route, Routes} from "react-router-dom";
+import Home from "./page/home";
+import Popular from "./page/popular";
+import Rated from "./page/rated";
+import DetailPage from "./components/detailPage/detailPage";
+import SearchResult from "./components/searchResult";
 
 function App() {
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
+    return (
+        <>
+            <Header/>
+            <Routes>
+                <Route path={'/'} element={<Home/>}/>
+                <Route path={'/popular'} element={<Popular/>}/>
+                <Route path={'/rated'} element={<Rated/>}/>
+                <Route path={'/detail-page/:id'} element={<DetailPage/>}/>
+                <Route path={`/search-result/:movieName`} element={<SearchResult/>}/>
+            </Routes>
+            <Footer/>
+        </>
+    );
 }
 
 export default App;

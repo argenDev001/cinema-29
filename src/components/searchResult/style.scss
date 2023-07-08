@@ -1,0 +1,32 @@
+#results {
+  background: #252424;
+  .btn-page{
+    button{
+      padding: 5px 30px ;
+      border-radius: 20px;
+      cursor: pointer;
+      color: #7e7c7c;
+      border: none;
+    }
+  }
+
+  .movies {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 80px;
+    padding: 100px 0;
+
+    img {
+      width: 300px;
+      border-radius: 10px;
+    }
+
+
+    h4 {
+      font-size: 18px;
+      width: 300px;
+      color: white;
+      padding: 10px 0;
+    }
+  }
+}
