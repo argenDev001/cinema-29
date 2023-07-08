@@ -6,29 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="0a6282d7-02f6-4709-bbb8-4904a016c776" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Apikey/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Apikey/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Card/movieCard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Card/movieCard.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/actors/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/actors/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/detailPage/detailPage.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/detailPage/detailPage.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/detailPage/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/detailPage/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/footer/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/footer/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/header/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/searchResult/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchResult/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/searchResult/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/searchResult/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/videos/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/videos/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/page/home/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/home/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/home/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/home/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/popular/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/popular/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/popular/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/popular/style.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/rated/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/rated/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/page/rated/style.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/page/rated/style.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,6 +24,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/page/home/index.js" root0="FORCE_HIGHLIGHTING" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -62,7 +43,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;SCSS&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -107,6 +88,8 @@
       <workItem from="1687466597396" duration="334000" />
       <workItem from="1687590844534" duration="32000" />
       <workItem from="1688384378436" duration="11000" />
+      <workItem from="1688815902041" duration="700000" />
+      <workItem from="1688816624586" duration="356000" />
     </task>
     <servers />
   </component>
